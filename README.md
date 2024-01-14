@@ -7,7 +7,7 @@ Welcome to the Roll dice! This web-based application implements a classic two-pl
 - Responsive Layout: Enjoy the game seamlessly on various screen sizes, thanks to responsive design principles.
 
 # Images
-<img src="/assets/dicesm.png" alt="sm1" width="200"/> <img src="/assets/dicelg2.png" alt="lg" width="200"/>
+<img src="/assets/dicesm.png" alt="sm1" width="200"/> <img src="/assets/dicelg2.png" alt="lg" width="400"/>
 
 
 # How to Play
