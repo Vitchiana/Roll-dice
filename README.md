@@ -18,5 +18,4 @@ Welcome to the Roll dice! This web-based application implements a classic two-pl
 # Getting Started
 - Clone the repository: git clone https://github.com/Vitchiana/Roll-dice.git
 - Open index.html in your web browser.
-  
-* Feel free to explore, contribute, and have fun with the Pig Game!
+-  Feel free to explore, contribute, and have fun with the Pig Game!
