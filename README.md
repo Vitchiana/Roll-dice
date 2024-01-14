@@ -6,6 +6,10 @@ Welcome to the Roll dice! This web-based application implements a classic two-pl
 - Modern Design: Stylish visuals, player highlights, and smooth transitions enhance the overall aesthetic.
 - Responsive Layout: Enjoy the game seamlessly on various screen sizes, thanks to responsive design principles.
 
+# Images
+![image](/assets/dicelg2.png)
+![image](/assets/dicesm.png)
+
 # How to Play
 - Click the "Roll Dice" button to roll a six-sided die.
 - Accumulate points for each roll but beware of rolling a 1, which resets your current score.
